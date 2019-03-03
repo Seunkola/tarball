@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+input {
+  max-width: 500px;
+  box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	display: block;
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border-bottom: 1px solid #ddd;
+	background: transparent;
+	margin-bottom: 10px;
+	font: 16px Arial, Helvetica, sans-serif;
+	height: 45px;
+}
+
+.gray {
+  color: #828282;
+  
+}
+
+.orange {
+  background-color: #f28829;
+  box-shadow: 5px 5px grey;
+  height: 60px;
+}
+
+.background-gray {
+  background-color: rgb(246,246,239);
+  margin-top: 5px;
+}
+
+#title_header {
+  font-size: xx-large;
+    font-family: fantasy;
+    color: white;
+}
+
+#latest {
+  color: white;
+  margin: 5%;
+  font-size: larger;
+}
+
+#top {
+  color: white;
+  margin: 5%;
+  font-size: larger;
+}
+
+#divider {
+  color: white;
+  margin: 5%;
+  font-size: larger;
+}
+
+#search {
+  color: white;
+  margin: 5%;
+  font-size: larger;
+}
+
+#login {
+  border-style: solid;
+  border-color: white;
+  padding: 10px;
+  font-size: x-large;
+}
+
+.f11 {
+  font-size: 11px;
+}
+
+.w85 {
+  width: 100%;
+}
+
+.button {
+  background: rgb(242, 136, 41);;
+	padding: 8px 20px 8px 20px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	color: #fff;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+	font: normal 30px 'Bitter', serif;
+	-moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	-webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+	border: 1px solid #257C9E;
+	font-size: 15px;
+}
+
+.car_images {
+  max-width: 25%;
+}
+
+.mt3 {
+  display: flex;
+  justify-content: center;
+}
+
+#login_page {
+  text-align: -webkit-center;
+}
+
+#add_car {
+  
+    color: white;
+      font-size: larger;
+      margin: 5%;
+  
+}
+#add_car a {
+  color: white;
+}
